@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/octocat.png" width=400px>
+  <img alt="Frontend" src="https://github.com/tiagod3p/tiagod3p/raw/master/.github/octocat.png" width=400px>
 </p>
 
 
