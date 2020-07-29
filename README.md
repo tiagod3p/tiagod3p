@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://miro.medium.com/max/750/1*MHPble8_W6QSMWRyR4wGdw.jpeg" width=400px>
+  <img alt="Frontend" src=".github/octocat.png" width=400px>
 </p>
 
 
