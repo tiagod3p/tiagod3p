@@ -1,3 +1,17 @@
+
+![oie_transparent (3)](https://i.imgur.com/YprD8EV.png)
+
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagod3p&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=tiagod3p&theme=default" /></td>
+  </tr>   
+</table>
+</center>
+
+
 <h1 align="center">
     Olá pessoas!
 </h1>
@@ -10,10 +24,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Frontend" src="https://github.com/tiagod3p/tiagod3p/raw/master/.github/octocat.png" width=400px>
-</p>
 
 
 ## :cyclone: Quem sou eu
