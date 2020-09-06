@@ -5,7 +5,7 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagod3p&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagod3p&hide=html,css&layout=compact&theme=radical" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=tiagod3p&theme=radical" /></td>
   </tr>   
 </table>
