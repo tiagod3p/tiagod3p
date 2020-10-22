@@ -1,6 +1,8 @@
 
 ![oie_transparent (3)](https://i.imgur.com/YprD8EV.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagod3p" alt="tiagod3p" /> </p>
+
 
 <center>
 <table>
