@@ -1,6 +1,4 @@
 
-![oie_transparent (3)](https://i.imgur.com/YprD8EV.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagod3p" alt="tiagod3p" /> </p>
 
 
@@ -20,7 +18,7 @@
 
 ## :cyclone: Quem sou eu
 
-Meu nome é Tiago, tenho 19 anos, estou cursando Bacharelado em Engenharia Elétrica com ênfase em Softwares e amo aprender e ensinar sobre programação! Acredito que com a tecnologia é possível mudar o mundo, e esse é o meu objetivo!
+Meu nome é Tiago Vidal, tenho 20 anos, estou cursando Bacharelado em Engenharia Elétrica. Apaixonado por Matemática e Programação Funcional. Atualmente focado em Clojure e seu ecossistema. 
 
 Estou sempre aberto a novas amizades que venham para agregar. Compartilhar conhecimento é comigo mesmo! Contacte-me:
 
