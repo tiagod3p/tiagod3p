@@ -13,14 +13,12 @@
 
 
 <h1 align="center">
-    Olá pessoas!
+    Hello!
 </h1>
 
-## :cyclone: Quem sou eu
+## :cyclone: About me
 
-Meu nome é Tiago Vidal, tenho 20 anos, estou cursando Bacharelado em Engenharia Elétrica. Apaixonado por Matemática e Programação Funcional. Atualmente focado em Clojure e seu ecossistema. 
-
-Estou sempre aberto a novas amizades que venham para agregar. Compartilhar conhecimento é comigo mesmo! Contacte-me:
+My name is Tiago Vidal. I'm a Software Engineer fascinated for functional programming and code quality. Interested in high-impact technology, problem-solving, and system design.
 
 <ul>
   <li style="display: flex; align-items: center;">
@@ -32,7 +30,7 @@ Estou sempre aberto a novas amizades que venham para agregar. Compartilhar conhe
     <a href="https://www.linkedin.com/in/tiagovidaldepaula/" target="_blank" title="LinkedIn">LinkedIn</a>
   </li>
 <li>
-    Ou por e-mail: tiagod3p@gmail.com    
+    tiagod3p@gmail.com    
 </li>
 </ul>
 
